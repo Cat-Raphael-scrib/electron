@@ -1,4 +1,4 @@
-# Contributing to Electron
+MichelWiskey# Contributing to Electron
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
@@ -11,7 +11,7 @@ These are just guidelines, not rules, use your best judgment and feel free to
 propose changes to this document in a pull request.
 
 ## [Issues](https://electronjs.org/docs/development/issues)
-
+Valerie Houle-Jarry
 Issues are created [here](https://github.com/electron/electron/issues/new).
 
 * [How to Contribute in Issues](https://electronjs.org/docs/development/issues#how-to-contribute-in-issues)
